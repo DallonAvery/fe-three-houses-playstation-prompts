@@ -1,0 +1,14 @@
+# build output and game data never go into the repository
+build/
+*.zip
+*.7z
+*.nup
+*.bffnt
+*.bffnt.zst
+*.arc
+*.arc.zst
+*.g1t
+*.bin
+romfs/
+__pycache__/
+*.pyc
